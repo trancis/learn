@@ -1,0 +1,1060 @@
+.tooltip >.tooltip-inner {
+  background-color: white;
+  color:black;
+}
+.tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-top-color: white;
+  border-width: 5px 5px 0;
+}
+ 
+  .searchicon
+{
+  transform: rotateY(180deg);
+   -ms-transform: rotateY(180deg); /* IE 9 */
+    -webkit-transform: rotateY(180deg);
+}
+.paddingtopbottom
+{
+  padding: 3px 10px;
+}
+
+.textboxsize
+{
+  width:50px;
+  height:40px;
+}
+  .border
+{
+  border-color: #DDD7D7;
+}
+
+  .font1
+{
+    font-family: 'Raleway', sans-serif;
+    size:8px;
+    color:rgb(89,89,89);
+    
+}
+.font2
+{
+    font-family: 'Raleway', sans-serif;
+    size:8px;
+    color:rgb(89,89,89);
+    font-weight:bold;
+    
+}
+.font3
+{
+    font-family: 'Raleway', sans-serif;
+    size:8px;
+    color:rgb(89,89,89);
+  
+    
+}
+.font4
+{
+    font-family: 'Raleway', sans-serif;
+    size:8px;
+    color:rgb(222,58,0);
+   
+    
+}
+.font5
+{
+     font-family: 'Raleway',sans-serif;
+    size: 8px;
+    color: rgb(166,166,166);
+    
+}
+.font6{
+    font-family: 'Raleway Light',sans-serif;
+    size:8px;
+    color:rgb(89,89,89);
+   
+}
+.font7{
+font-family: 'Raleway',sans-serif; 
+    size:8px;
+    color:rgb(191,191,191);
+}
+.font8{
+    font-family: 'Raleway',sans-serif; 
+    size:8px;
+    color:rgb(255,255,255);
+    }
+.font9
+{
+    font-family: 'Raleway ',sans-serif;
+    size:8px;
+    color:rgb(255,255,255);
+    font-weight:bolder;
+    text-transform: uppercase;
+ }
+.font10{
+     font-family: 'Raleway Light',sans-serif; 
+    size:8px;
+    color:rgb(255,255,255);
+}
+.font11{
+     font-family: 'Raleway',sans-serif; 
+    size:8px;
+    color:rgb(255,127,80);
+}
+.font12{
+    font-family: 'Raleway',sans-serif; 
+    size:8px;
+    color:rgb(89,89,89);
+    
+}
+.font13{
+    font-family: 'Raleway',sans-serif; 
+    size:8px;
+    color:rgb(255,127,80);
+ 
+    text-transform: uppercase;
+}
+
+.myBtn
+{
+    padding:5px 25px;
+    border:none;
+    border-radius:3px;
+    -moz-border-radius:3px; 
+	 -webkit-border-radius:3px; 
+    font-family: 'Raleway', sans-serif;
+    size:8px;
+    outline:none;
+    cursor:pointer;   
+}
+.squareBtn
+{
+    padding:5px 5px;
+    border:none;
+    font-family: 'Raleway', sans-serif;
+   font-size:15px;
+    outline:none;
+    cursor:pointer;   
+}
+
+.button1
+{
+   
+    background:#FF7F50;
+    color:white;
+ 
+}
+.button1:hover
+{
+   
+    background:#FF581D;
+    color:white;
+      
+}
+
+.anchorbutton:hover
+{
+   
+    background:#FF7F50;
+    color:#FFFFFF;
+
+      
+}
+
+.button2
+{
+    background:rgb(127,127,127);
+    color:white;    
+}
+.button2:hover
+{
+   
+    background:rgb(100,100,100);
+    color:white;
+      
+}
+.anchorbutton{
+   background:#F2F2F2;
+   
+
+}
+.button3
+{
+  
+    background:rgb(255,255,255);
+    color:rgb(228,58,0);
+    
+    
+}
+.button3:hover
+{
+  
+    background:rgb(255,255,255);
+   
+    color:rgb(192,50,0);
+      
+    
+}
+.button4
+{
+  
+    background:rgb(255,255,255);
+    color:rgb(166,166,166);
+    
+    
+}
+.button4:hover
+{
+  
+    background:rgb(255,255,255);
+   
+    color:rgb(51,51,51);
+      
+    
+}
+.btn-progress {
+     padding:5px 25px;
+    background:#FF7F50;
+    border:none;
+    border-radius:3px;
+  font-family: 'Raleway', sans-serif;
+    size:8px;
+     outline:none;
+    color:white;
+      text-shadow: none;
+  background: -webkit-linear-gradient(-45deg, rgba(255, 88, 29, 0.6) 25%, transparent 25%, transparent 50%, rgba(255, 88, 29, 0.6) 50%, rgba(255, 88, 29, 0.6) 75%, transparent 75%, transparent), -webkit-linear-gradient(top, #f6f5f0, #e1e0dc);
+  background: -moz-linear-gradient(-45deg, rgba(255, 255, 255, 0.6) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.6) 75%, transparent 75%, transparent), -moz-linear-gradient(top, #f6f5f0, #e1e0dc);
+  background: -ms-linear-gradient(-45deg, rgba(255, 255, 255, 0.6) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.6) 75%, transparent 75%, transparent), -ms-linear-gradient(top, #f6f5f0, #e1e0dc);
+  background: -o-linear-gradient(-45deg, rgba(255, 255, 255, 0.6) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.6) 75%, transparent 75%, transparent), -o-linear-gradient(top, #f6f5f0, #e1e0dc);
+  background: linear-gradient(-45deg, rgba(255, 255, 255, 0.6) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.6) 75%, transparent 75%, transparent), linear-gradient(top, #f6f5f0, #e1e0dc);
+  -pie-background: linear-gradient(-45deg, rgba(255, 255, 255, 0.6) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.6) 75%, transparent 75%, transparent), linear-gradient(top, #f6f5f0, #e1e0dc);
+  background-repeat: repeat;
+  -webkit-background-size: 40px 40px, 100% 100%;
+  -moz-background-size: 40px 40px, 100% 100%;
+  -ms-background-size: 40px 40px, 100% 100%;
+  -o-background-size: 40px 40px, 100% 100%;
+  background-size: 40px 40px, 100% 100%;
+  -webkit-animation: progress-bar-stripes 2s linear infinite;
+  -moz-animation: progress-bar-stripes 2s linear infinite;
+  -ms-animation: progress-bar-stripes 2s linear infinite;
+  -o-animation: progress-bar-stripes 2s linear infinite;
+  animation: progress-bar-stripes 2s linear infinite;
+}
+
+@-webkit-keyframes progress-bar-stripes {
+  from { background-position: 0 0; }
+  to { background-position: 40px 0; }
+}
+
+@-moz-keyframes progress-bar-stripes {
+  from { background-position: 0 0; }
+  to { background-position: 40px 0; }
+}
+
+@keyframes progress-bar-stripes {
+  from { background-position: 0 0; }
+  to { background-position: 40px 0; }
+}
+
+.search { 
+	padding:2px 8px 2px 8px;
+     border:none;
+	background-color:#fcfcfc;
+    outline:none;	
+    color:rgb(191,191,191);
+}
+.rounded { 
+    display:inline-block;
+	border-radius:15px; 
+	-moz-border-radius:15px; 
+	-webkit-border-radius:15px; 
+    border:1px solid #d0d0d0;
+	background-color:#fcfcfc;
+    outline:none;
+}
+/*  My Radio Button*/
+input[type='radio'].myRadio {
+    -webkit-appearance:none;
+    width:20px;
+    height:20px;
+    border:1px solid darkgray;
+    border-radius:50%;
+    outline:none;
+    padding:0px;
+    
+    box-shadow:0 0 5px 0px gray inset;
+}
+.myRadioLabel
+{
+display:table-cell;
+vertical-align: middle;
+
+}
+
+input[type='radio'].myRadio:hover {
+    box-shadow:0 0 5px 0px orange inset;
+}
+input[type='radio'].myRadio:before {
+    content:'';
+    display:block;
+    width:100%;
+    height:100%;
+    margin: 20% auto;    
+    border-radius:50%;
+    margin-top:0px;
+     
+}
+input[type='radio'].myRadio:checked:before {
+    background:rgb(255,127,80);
+}
+input
+{
+  outline:none;
+  }
+
+  .line
+{
+    width:100%;
+    height:1px;
+    border-bottom:2px solid grey;
+}
+.line1
+{
+    width:100%;
+    height:1px;
+    border-bottom:1px solid grey;
+}
+.line2
+{
+    width:100%;
+    height:1px;
+    border-bottom:0.25px solid rgb(217,217,217);
+}
+
+.linelightgrey
+{
+    width:94%;
+    height:1px;
+    border-bottom:2px solid #DDD7D7;
+}
+
+input[type='text'].mytextbox{
+  width: 220px; 
+  height:30px;
+}
+
+
+  
+input[type="radio"].tRadio  {
+    display:none;
+}
+input[type="radio"].tRadio + label span {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+    background:white;
+    cursor:pointer;
+  border-radius:100%;
+  border:1px solid gray;
+}
+
+input[type="radio"].tRadio:checked + label span  {
+    background:orange;
+  border-radius:100%;
+}
+
+.boxbgcolor{
+  background:
+}
+
+.roundeddiv{ 
+    display:inline-block;
+  -moz-border-radius:5px; 
+  -webkit-border-radius:5px; 
+    
+  background-color:rgb(38,38,38);
+    outline:none;
+}
+
+.round{ 
+    display:inline-block;
+  -moz-border-radius:3px; 
+  -webkit-border-radius:3px; 
+    outline:none;
+    border:1px solid #DDD7D7;
+  }
+
+.myInput
+{
+   border-style:none;
+}
+.myInput:hover
+{
+   border-style:solid;
+}
+.myInput:focus
+{
+   border-style:solid;
+}
+a.anchortext 
+{ color: inherit;
+ text-decoration:underline; 
+} 
+a.anchortext:hover
+{
+     color:inherit; 
+     text-decoration:underline; 
+     cursor:pointer;  
+}
+a.anchor
+{ color: inherit;
+ text-decoration:none;
+} 
+a.anchor:hover
+{
+     color:rgb(222,58,0); 
+     text-decoration:none; 
+     cursor:pointer; 
+
+}
+
+a.anchor1
+{ color: inherit;
+ text-decoration:none;
+} 
+a.anchor1:hover
+{
+     color:rgb(255,127,80); 
+     text-decoration:none; 
+     cursor:pointer; 
+     
+
+}
+
+ 
+a.orangeanchor
+{
+color:rgb(222,58,0); 
+     text-decoration:none; 
+}
+a.orangeanchor:hover
+{
+     color:rgb(222,58,0)  !important;
+     text-decoration:none; 
+     cursor:pointer;  
+}
+
+.pull-right
+{
+  float:right;
+}
+.grayBG
+{
+
+ background:rgb(242,242,242);
+}
+/* ------------------------Social Icon here------------------------------------- */
+
+.satellite-icon
+{
+   width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -17px -197px no-repeat;
+}
+.msg-icon
+{
+   width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -74px -193px no-repeat;
+}
+
+.man-icon
+{
+   width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -133px -197px no-repeat;
+}
+.recoder-icon
+{
+   width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -190px -194px no-repeat;
+}
+
+.div-rounded
+{
+   
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    background-color:#FFFFFF;
+}
+.ActorViewImage
+{
+   width:200px;
+    height:180px;
+    
+   background:url('../img/Winking1.png');
+   background-repeat: no-repeat;
+}
+.Actorphoto
+{
+  height:160px;
+  width:840px;
+    
+   background:url('../img/Winking1.png');
+   background-repeat: no-repeat;
+}
+.Actorphoto
+{
+  height:40px;
+  width:40px;
+    
+  vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -190px -194px no-repeat;
+}
+
+/* ------------------------------------------------------------------ */
+
+
+
+
+
+
+/*-Starting-----  all icon define here ------------------- */
+.trIcon-recorder
+{
+    width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -98px -520px no-repeat;
+}
+.edit
+{
+    width:16px;
+    height:17px;
+    vertical-align:middle;
+    background:url('../img/icons/edit_icon.png') -0px -0px no-repeat;
+}
+.fitforyou
+{
+    width:20px;
+    height:25px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -167px -149px no-repeat;
+}
+
+.moveUp
+{
+    width:19px;
+    height:14px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -51px -146px no-repeat;
+}
+.recorder
+{
+    width:23px;
+    height:24px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -18px -150px no-repeat;
+}
+.moveDown{
+  width:21px;
+    height:14px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -95px -156px no-repeat;
+}
+.trIcon-photo
+{
+    width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -312px -1247px no-repeat;
+}
+.trIcon-manage-auditions
+{
+    width:52px;
+    height:52px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -0px -1143px no-repeat;
+}
+.trIcon-binacular
+{
+    width:57px;
+    height:56px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -619px -933px no-repeat;
+}
+
+/* -------------END ----------------- */
+.socialIcon-facebook
+{
+    width:31px;
+    height:31px;
+    vertical-align:middle;
+    background:url('../img/icons/social_icon.png') -1px -0px no-repeat;
+}
+.socialIcon-twitter
+{
+   width:31px;
+   height:31px;
+   vertical-align:middle;
+   background:url('../img/icons/social_icon.png') -39px -0px no-repeat;
+}
+.socialIcon-linkdin
+{
+   width:31px;
+   height:31px;
+   vertical-align:middle;
+   background:url('../img/icons/social_icon.png') -78px -0px no-repeat;
+}
+.socialIcon-googleplus
+{
+   width:31px;
+   height:31px;
+   vertical-align:middle;
+   background:url('../img/icons/social_icon.png') -116px -0px no-repeat;
+}
+.socialIcon-youtube
+{
+   width:31px;
+   height:31px;
+   vertical-align:middle;
+   background:url('../img/icons/social_icon.png') -155px -0px no-repeat;
+}
+.fontsize11{
+  font-size:11px;
+  }
+
+  input[type='text'].paddingleft{
+  padding-left: 10px;
+}
+
+select.font7.dropdownpadding {
+padding-left: 5px;
+}
+
+.myCloseDiv
+{
+
+  display: table;
+padding: 10px 12px;
+}
+.close1
+{font-size: 9px;
+display: table-cell;
+vertical-align: middle;
+}
+.close2
+{
+  display: table-cell;
+font-size: 16px;
+
+vertical-align: middle;
+
+}
+.padding25
+{
+  padding-left: 25px;
+}
+
+.padding10{
+  padding-left: 10px;
+}
+.padding30
+{
+  padding-left: 30px;
+}
+.width{
+  width:260px;
+  height:26px;
+}
+.padding50{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.fontsize12{
+  font-size:12px;
+}
+/*-------------- VANESSA MIZZONE containt Icons----------------- */
+
+.my-message
+{
+   width:50px;
+    height:50px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -621px -4px no-repeat;
+}
+.roles
+{
+   width:50px;
+    height:50px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -1px -1768px no-repeat;
+}
+.aurditions
+{
+   width:50px;
+    height:50px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -0px -1562px no-repeat;
+}
+.submission
+{
+   width:50px;
+    height:50px;
+    vertical-align:middle;
+    background:url('../img/icons/ticon.png') -515px -1038px no-repeat;
+}
+.home
+{
+  
+   background-image: url('../img/icons/Email.png');
+   background-repeat: no-repeat;
+}
+
+
+
+.textbox { 
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgba(255, 255, 255, 0.44); 
+    color: #333; 
+    border: 1px solid #A4A4A4; 
+    padding: 4px 8px 4px 4px !important;
+    line-height: 1; 
+    width: 275px; 
+    height:30px; 
+  } 
+  .act_textbox { 
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgba(255, 255, 255, 0.44); 
+    color: #333; 
+    border: 1px solid #A4A4A4; 
+    padding: 4px 8px 4px 4px !important;
+    line-height: 1; 
+    width: 185px; 
+    height:30px; 
+  } 
+  /* ------------------------------------Div bg Image-------------------------------------------- */
+  .div-bgImage{
+    
+    width:80px;
+    height:80px;
+    background-image: url(../img/apple-touch-icon-72-precomposed.png);
+    background-repeat: no-repeat;
+  }
+  /* ------------------------------------------------------------------------------------------------ */
+
+.textarea {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 3px;
+    resize:none;
+    outline:none;
+    padding-bottom:15px;
+}
+
+textarea{
+   resize:none;
+    outline:none;
+}
+/* -------------checkbox------------------------------------------------------------ */
+
+/* -------------------------------------------------------------------------- */
+input[type="checkbox"].myCheckBox
+{
+  display: none !important;
+}
+input[type="checkbox"].myCheckBox + label span {
+    display:inline-block;
+    width:19px;
+    height:19px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+    background:url(../img/icons/social_icon.png) -22px -108px no-repeat;
+    cursor:pointer;
+    z-index: :34;
+}
+input[type="checkbox"].myCheckBox:checked + label span{
+    background:url(../img/icons/social_icon.png) -22px -83px no-repeat;
+    z-index: :40;
+}
+
+
+
+
+.headerDivLogo{
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    background-color: #f3f3f3;
+  }
+  #headerMore >li{
+line-height: 150%;
+  }
+  
+.fontcolor
+{
+  color: #de3a00;
+}
+
+#scrollbox3 {
+    overflow: auto;
+    width: 400px;
+    height: 300px;
+    padding: 0 5px;
+    border: 1px solid #b7b7b7;
+}
+
+.track3 {
+    width: 10px;
+    background: rgba(0, 0, 0, 0);
+    margin-right: -4px;
+    border-radius: 10px;
+    -webkit-transition: background 250ms linear;
+    transition: background 250ms linear;
+}
+
+.track3:hover,
+.track3.dragging {
+    
+    
+   
+}
+
+.handle3 {
+    width: 10px;
+    
+    background:white;
+    border-radius: 7px;
+
+    border:1px solid rgb(166,166,166);
+}
+
+.track3:hover .handle3,
+.track3.dragging .handle3 {
+    width: 10px;
+}
+tr
+{
+   border: 1px solid black;
+}
+td
+{
+    border: 0;
+    width: 100px;
+}​
+  
+
+/*--fadein slider--*/
+  #TrSlider {
+            
+        }
+        #Actual {
+            background: silver;
+            color: White;
+            padding: 20px;
+        }
+        .TrSlideUp, .TrSlideDown, .TrSlideDown1 {
+            max-height: 0;            
+            overflow-y: hidden;
+           position: absolute;
+           z-index:22;
+            -webkit-transition: max-height 0.5s ease-in-out;
+            -moz-transition: max-height 0.5s ease-in-out;
+            -o-transition: max-height 0.5s ease-in-out;
+            transition: max-height 0.5s ease-in-out;
+        }
+        .TrSlideDown {            
+            max-height: 200px ;                    
+        } 
+         .TrSlideDown1 {            
+            max-height: 500px ;                    
+        } 
+/*---------Nav Bar-----------*/
+.navbar-nav>li>a:hover
+{
+  color:rgb(222,58,0)  !important;
+     text-decoration:none; 
+     cursor:pointer; 
+
+
+}
+.navbar-nav>li>a:active,.navbar-nav>li>a:focus
+{
+  color:rgb(222,58,0)  !important;
+     text-decoration:none; 
+     cursor:pointer; 
+
+  
+}
+
+/*---------Rating Style---------*/
+.rating > div {
+display: inline-block;
+height: 15px;
+width: 15px;
+  font-size:8px;
+    font-family:'Raleway', sans-serif;
+    font-weight:bolder;
+    background: rgb(242,242,242);
+    cursor:pointer;
+border-radius: 2px;
+vertical-align: middle;
+text-align: center;
+ color:white;
+    padding:3px 1px 0px 1px;
+  
+}
+/*-----Rain slider------*/
+#min-value,#max-value{
+
+    position:absolute;
+    height: 21px;
+    width: 40px;
+    border: 1px solid gray;
+    color:gray;
+    
+    font-size: 14px;
+    text-align:center;
+    font-family: 'Raleway', sans-serif;
+
+  }
+  #min-value
+  {
+    top: 22px;
+left: 10px;
+  }
+  #max-value
+  {
+    top: 22px;
+right: 10px;
+}
+/*--------------radiobox in css ------------------*/
+  
+
+.myRadioImg input[type="radio"]  {
+  display: none;
+}
+.radioMaleUnCheck{
+    display:inline-block;
+    width:21px;
+    height:65px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+     background:url('../img/icons/social_icon.png') -73px -68px no-repeat;
+
+    cursor:pointer;
+}
+.radioMaleCheck {
+    display:inline-block;
+    width:21px;
+    height:65px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+     background:url('../img/icons/social_icon.png') -126px -68px no-repeat;
+
+    cursor:pointer;
+}
+.radioFemaleUnCheck{
+    display:inline-block;
+    width:23px;
+    height:65px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+     background:url('../img/icons/social_icon.png') -101px -68px no-repeat;
+
+    cursor:pointer;
+}
+.radiolFemaleCheck {
+    display:inline-block;
+    width:23px;
+    height:65px;
+    margin:-1px 4px 0 0;
+    vertical-align:middle;
+     background:url('../img/icons/social_icon.png') -151px -68px no-repeat;
+
+    cursor:pointer;
+}
+/*--------------ring Slider ------------------*/
+#min-value,#max-value{
+
+    position:absolute;
+    height: 21px;
+    width: 40px;
+    border: 1px solid gray;
+    color:gray;
+    
+    font-size: 14px;
+    text-align:center;
+    font-family: 'Raleway', sans-serif;
+
+  }
+  #min-value
+  {
+    top: 22px;
+left: 10px;
+  }
+  #max-value
+  {
+    top: 22px;
+right: 10px;
+
+  }
+
+/*---------------------------------Rounded button--------------------------------------*/
+div .confirm
+{
+    display:none;
+}
+div .confirm +label
+{
+    color:white;
+    font-size:14px;
+    padding: 4px 0px 0px 3px;
+    text-align:center;
+    cursor:pointer
+}
+.confirm#yes + label
+{
+    display:inline-block;
+    height:25px;
+    width:45px;
+    background:grey;
+    border-top-left-radius:45%;
+    border-bottom-left-radius:45%;
+}
+.confirm#maybe + label
+{
+    display:inline-block;
+    height:25px;
+    width:50px;
+    background:grey;
+}
+.confirm#no + label
+{
+    display:inline-block;
+    height:25px;
+    width:45px;
+    background:grey;
+border-top-right-radius:45%;
+    border-bottom-right-radius:45%;
+}
+.confirm:checked + label
+{
+    background:red;
+}
